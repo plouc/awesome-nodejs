@@ -634,6 +634,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [WebdriverIO](http://webdriver.io) - Automated testing based on the WebDriver protocol.
 - [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
+- [veggies](https://github.com/ekino/veggies) - Easy API/CLI testing using cucumber-js
 
 
 ### Security
